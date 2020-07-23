@@ -1,0 +1,10 @@
+.tabla{
+display: table;
+border: 2px solid crimson;
+width: 400px;
+}
+.columna{
+display: table-cell;
+border: 2px solid crimson;
+width: auto;
+}
